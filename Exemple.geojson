@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "num_mais": "001",
+        "adresse": "Avenue du lac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2452, -1.6933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num_mais": "002",
+        "adresse": "Avenue du lac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2460, -1.6925]
+      }
+    }
+    // Ajoutez d'autres maisons ici
+  ]
+}
