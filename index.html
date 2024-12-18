@@ -9,6 +9,21 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css">
 </head>
 <body>
+    <!-- Écran de chargement -->
+    <div id="loadingScreen">
+        <div class="loading-content">
+            <img src="logo.png" alt="Logo de GomaMap" id="loadingLogo">
+            <div class="progress-bar">
+                <div id="progress"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Message d'erreur de chargement -->
+    <div id="errorMessage">
+        <p>Le chargement a pris trop de temps. Vérifiez votre connexion réseau et réessayez.</p>
+    </div>
+
     <header>
         <h1>Carte détaillée de la ville de Goma</h1>
     </header>
