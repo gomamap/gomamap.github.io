@@ -1,18 +1,5 @@
 // Initialisation des éléments HTML pour l'écran de chargement
-const loadingScreen = document.getElementById('loadingScreen');
-const progressBar = document.getElementById('progress');
-const errorMessage = document.getElementById('errorMessage');
-let loadingTimeout;
 
-// Simuler une barre de progression
-let progress = 0;
-const progressInterval = setInterval(() => {
-    progress += 10;
-    progressBar.style.width = `${progress}%`;
-    if (progress >= 100) {
-        clearInterval(progressInterval);
-    }
-}, 500);
 
 // Initialisation de la carte
 const map = L.map('map').setView([-1.6933, 29.2452], 13); // Position par défaut avant la géolocalisation
