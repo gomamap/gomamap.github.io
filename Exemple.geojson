@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "num_mais": "001",
-        "adresse": "Avenue du lac"
+        "adresse": "Avenue du lac, Goma",
+        "ville": "Goma",
+        "otherInfo": "Propriété rénovée récemment."
       },
       "geometry": {
         "type": "Point",
@@ -16,7 +18,9 @@
       "type": "Feature",
       "properties": {
         "num_mais": "002",
-        "adresse": "Avenue du lac"
+        "adresse": "Avenue du lac, Goma",
+        "ville": "Goma",
+        "otherInfo": "Maison avec jardin."
       },
       "geometry": {
         "type": "Point",
