@@ -39,13 +39,14 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
     }
 });
 
-// Fonction de recherche dans le GeoJSON
+// Fonction de recherche dans le GeoJSON (uniquement pour Goma)
 function searchHouse(query) {
     const result = geoJsonData.features.find(feature => {
         // Recherche par numéro de maison et adresse
         const houseNumber = feature.properties.num_mais.toLowerCase();
         const address = feature.properties.adresse.toLowerCase();
-        return houseNumber.includes(query.toLowerCase()) || address.includes(query.toLowerCase());
+        const city = feature.properties.ville.toLowerCase();
+        return (houseNumber.includes(query.toLowerCase()) || address.includes(query.toLowerCase())) && city === 'goma';
     });
 
     if (result) {
@@ -74,7 +75,7 @@ function searchHouse(query) {
             `)
             .openPopup();
     } else {
-        alert("Maison non trouvée.");
+        alert("Maison non trouvée à Goma.");
     }
 }
 
@@ -88,9 +89,10 @@ document.getElementById('searchInput').addEventListener('keypress', function(eve
     }
 });
 
-// Fonction de géocodage via Nominatim (OpenStreetMap)
+// Fonction de géocodage via Nominatim (OpenStreetMap) limitée à Goma
 function geocodeLocation(location) {
-    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(location)}&format=json&addressdetails=1`;
+    // Limiter la recherche à Goma uniquement en ajoutant "+Goma" à la requête
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(location)}+Goma&format=json&addressdetails=1`;
 
     fetch(url)
         .then(response => response.json())
@@ -113,7 +115,7 @@ function geocodeLocation(location) {
                     .bindPopup(placeName)
                     .openPopup();
             } else {
-                alert("Lieu introuvable.");
+                alert("Lieu introuvable à Goma.");
             }
         })
         .catch(error => console.error("Erreur lors du géocodage : ", error));
