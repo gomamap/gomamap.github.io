@@ -1,10 +1,39 @@
+// Initialisation des éléments HTML pour l'écran de chargement
+const loadingScreen = document.getElementById('loadingScreen');
+const progressBar = document.getElementById('progress');
+const errorMessage = document.getElementById('errorMessage');
+let loadingTimeout;
+
+// Simuler une barre de progression
+let progress = 0;
+const progressInterval = setInterval(() => {
+    progress += 10;
+    progressBar.style.width = `${progress}%`;
+    if (progress >= 100) {
+        clearInterval(progressInterval);
+    }
+}, 500);
+
 // Initialisation de la carte
-const map = L.map('map').setView([-1.6933, 29.2452], 13);  // Position par défaut avant la géolocalisation
+const map = L.map('map').setView([-1.6933, 29.2452], 13); // Position par défaut avant la géolocalisation
 
 // Ajouter la couche OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
+
+// Cacher l'écran de chargement une fois que la carte est prête
+map.on('load', () => {
+    clearTimeout(loadingTimeout);
+    loadingScreen.style.display = 'none'; // Masquer l'écran de chargement
+    clearInterval(progressInterval);
+});
+
+// Si le chargement prend plus de 5 secondes, afficher un message d'erreur
+loadingTimeout = setTimeout(() => {
+    loadingScreen.style.display = 'none';
+    errorMessage.style.display = 'block';
+}, 5000);
 
 // Variables globales pour gérer le marqueur et l'itinéraire
 let currentMarker = null;
