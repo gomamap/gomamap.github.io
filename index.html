@@ -6,16 +6,24 @@
     <title>GomaMap - Carte détaillée</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css">
 </head>
 <body>
     <header>
         <h1>Carte détaillée de la ville de Goma</h1>
     </header>
     <main>
+        <div class="rechercher_endroit">
+            <input type="text" name="" id="searchInput" placeholder="Rechercher un lieu...">
+        </div>
         <div id="map"></div>
         <div class="file-input">
             <label for="fileInput">Charger un fichier (GPX, KML, GeoJSON) :</label>
             <input type="file" id="fileInput" accept=".geojson,.gpx,.kml">
+        </div>
+        <div class="buttons">
+            <button id="locateBtn">Localiser ma position</button>
+            <button id="routeBtn">Afficher itinéraire</button>
         </div>
     </main>
     <footer>
@@ -23,6 +31,7 @@
     </footer>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="https://unpkg.com/togeojson"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
