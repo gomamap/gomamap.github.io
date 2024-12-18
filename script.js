@@ -1,6 +1,3 @@
-// Initialisation des éléments HTML pour l'écran de chargement
-
-
 // Initialisation de la carte
 const map = L.map('map').setView([-1.6933, 29.2452], 13); // Position par défaut avant la géolocalisation
 
@@ -16,15 +13,80 @@ map.on('load', () => {
     clearInterval(progressInterval);
 });
 
-// Si le chargement prend plus de 5 secondes, afficher un message d'erreur
-loadingTimeout = setTimeout(() => {
-    loadingScreen.style.display = 'none';
-    errorMessage.style.display = 'block';
-}, 5000);
-
 // Variables globales pour gérer le marqueur et l'itinéraire
 let currentMarker = null;
 let currentRoute = null;
+let geoJsonData = []; // Variable pour stocker les données GeoJSON
+
+// Charger un fichier GeoJSON
+document.getElementById('fileInput').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const content = e.target.result;
+            const extension = file.name.split('.').pop().toLowerCase();
+
+            // Géolocaliser selon le type de fichier (GeoJSON)
+            if (extension === 'geojson') {
+                geoJsonData = JSON.parse(content);
+                L.geoJSON(geoJsonData).addTo(map);
+            }
+
+            map.fitBounds(L.geoJSON(geoJsonData).getBounds());
+        };
+        reader.readAsText(file);
+    }
+});
+
+// Fonction de recherche dans le GeoJSON
+function searchHouse(query) {
+    const result = geoJsonData.features.find(feature => {
+        // Recherche par numéro de maison et adresse
+        const houseNumber = feature.properties.num_mais.toLowerCase();
+        const address = feature.properties.adresse.toLowerCase();
+        return houseNumber.includes(query.toLowerCase()) || address.includes(query.toLowerCase());
+    });
+
+    if (result) {
+        const lat = result.geometry.coordinates[1];
+        const lon = result.geometry.coordinates[0];
+        const houseName = result.properties.num_mais;
+        const fullAddress = result.properties.adresse;  // Adresse complète
+        const city = result.properties.ville;           // Ville
+        const otherInfo = result.properties.otherInfo || "Aucune information supplémentaire"; // Autres informations
+
+        // Centrer la carte sur la maison trouvée
+        map.setView([lat, lon], 13);
+
+        // Effacer l'ancien marqueur si présent
+        if (currentMarker) {
+            map.removeLayer(currentMarker);
+        }
+
+        // Ajouter un nouveau marqueur pour la maison
+        currentMarker = L.marker([lat, lon]).addTo(map)
+            .bindPopup(`
+                <strong>Maison: ${houseName}</strong><br>
+                <strong>Adresse:</strong> ${fullAddress}<br>
+                <strong>Ville:</strong> ${city}<br>
+                <strong>Informations supplémentaires:</strong> ${otherInfo}
+            `)
+            .openPopup();
+    } else {
+        alert("Maison non trouvée.");
+    }
+}
+
+// Ajouter un écouteur d'événements pour la barre de recherche
+document.getElementById('searchInput').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        const searchQuery = event.target.value;
+        if (searchQuery) {
+            searchHouse(searchQuery);
+        }
+    }
+});
 
 // Fonction de géocodage via Nominatim (OpenStreetMap)
 function geocodeLocation(location) {
@@ -56,99 +118,3 @@ function geocodeLocation(location) {
         })
         .catch(error => console.error("Erreur lors du géocodage : ", error));
 }
-
-// Ajouter un écouteur d'événements pour la barre de recherche
-document.getElementById('searchInput').addEventListener('keypress', function(event) {
-    if (event.key === 'Enter') {
-        const searchQuery = event.target.value;
-        if (searchQuery) {
-            geocodeLocation(searchQuery);
-        }
-    }
-});
-
-// Charger un fichier GeoJSON, GPX, ou KML
-document.getElementById('fileInput').addEventListener('change', function(event) {
-    const file = event.target.files[0];
-    if (file) {
-        const reader = new FileReader();
-        reader.onload = function(e) {
-            const content = e.target.result;
-            const extension = file.name.split('.').pop().toLowerCase();
-
-            // Géolocaliser selon le type de fichier (GeoJSON, GPX, KML)
-            if (extension === 'geojson') {
-                const data = JSON.parse(content);
-                L.geoJSON(data).addTo(map);
-            } else if (extension === 'gpx' || extension === 'kml') {
-                const parser = new DOMParser();
-                const xml = parser.parseFromString(content, "text/xml");
-
-                if (extension === 'gpx') {
-                    const geojsonData = toGeoJSON.gpx(xml);
-                    L.geoJSON(geojsonData).addTo(map);
-                } else if (extension === 'kml') {
-                    const geojsonData = toGeoJSON.kml(xml);
-                    L.geoJSON(geojsonData).addTo(map);
-                }
-            }
-
-            map.fitBounds(L.geoJSON(data).getBounds());
-        };
-        reader.readAsText(file);
-    }
-});
-
-// Localiser la position actuelle
-document.getElementById('locateBtn').addEventListener('click', function() {
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(function(position) {
-            const latitude = position.coords.latitude;
-            const longitude = position.coords.longitude;
-
-            map.setView([latitude, longitude], 13);
-
-            if (currentMarker) {
-                map.removeLayer(currentMarker);
-            }
-
-            currentMarker = L.marker([latitude, longitude]).addTo(map)
-                .bindPopup("Vous êtes ici")
-                .openPopup();
-        });
-    } else {
-        alert("La géolocalisation n'est pas supportée par votre navigateur.");
-    }
-});
-
-// Afficher l'itinéraire
-document.getElementById('routeBtn').addEventListener('click', function() {
-    if (currentMarker) {
-        if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(function(position) {
-                const startLat = position.coords.latitude;
-                const startLon = position.coords.longitude;
-                const endLat = currentMarker.getLatLng().lat;
-                const endLon = currentMarker.getLatLng().lng;
-
-                // Si un itinéraire existe, on le supprime
-                if (currentRoute) {
-                    map.removeControl(currentRoute);
-                }
-
-                // Calculer et afficher l'itinéraire
-                currentRoute = L.Routing.control({
-                    waypoints: [
-                        L.latLng(startLat, startLon),
-                        L.latLng(endLat, endLon)
-                    ],
-                    createMarker: function() { return null; } // Ne pas afficher de marqueurs intermédiaires
-                }).addTo(map);
-            });
-        } else {
-            alert("La géolocalisation n'est pas supportée par votre navigateur.");
-        }
-    } else {
-        alert("Veuillez d'abord effectuer une recherche de lieu.");
-    }
-});
