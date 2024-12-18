@@ -15,7 +15,6 @@ map.on('load', () => {
 
 // Variables globales pour gérer le marqueur et l'itinéraire
 let currentMarker = null;
-let currentRoute = null;
 let geoJsonData = []; // Variable pour stocker les données GeoJSON
 
 // Charger un fichier GeoJSON
@@ -41,21 +40,23 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
 
 // Fonction de recherche dans le GeoJSON (uniquement pour Goma)
 function searchHouse(query) {
-    const result = geoJsonData.features.find(feature => {
-        // Recherche par numéro de maison et adresse
-        const houseNumber = feature.properties.num_mais.toLowerCase();
-        const address = feature.properties.adresse.toLowerCase();
-        const city = feature.properties.ville.toLowerCase();
+    // Rechercher dans les données GeoJSON uniquement les maisons dans Goma
+    const result = geoJsonData.features.filter(feature => {
+        // Recherche par numéro de maison et adresse, et vérifier que la ville est Goma
+        const houseNumber = feature.properties.num_mais ? feature.properties.num_mais.toLowerCase() : '';
+        const address = feature.properties.adresse ? feature.properties.adresse.toLowerCase() : '';
+        const city = feature.properties.ville ? feature.properties.ville.toLowerCase() : '';
         return (houseNumber.includes(query.toLowerCase()) || address.includes(query.toLowerCase())) && city === 'goma';
     });
 
-    if (result) {
-        const lat = result.geometry.coordinates[1];
-        const lon = result.geometry.coordinates[0];
-        const houseName = result.properties.num_mais;
-        const fullAddress = result.properties.adresse;  // Adresse complète
-        const city = result.properties.ville;           // Ville
-        const otherInfo = result.properties.otherInfo || "Aucune information supplémentaire"; // Autres informations
+    if (result.length > 0) {
+        // Prendre le premier résultat
+        const lat = result[0].geometry.coordinates[1];
+        const lon = result[0].geometry.coordinates[0];
+        const houseName = result[0].properties.num_mais;
+        const fullAddress = result[0].properties.adresse;
+        const city = result[0].properties.ville;
+        const otherInfo = result[0].properties.otherInfo || "Aucune information supplémentaire";
 
         // Centrer la carte sur la maison trouvée
         map.setView([lat, lon], 13);
