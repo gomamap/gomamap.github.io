@@ -1,0 +1,5521 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bar : Fiata kivu",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20145869,
+                    -1.66126626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20139248,
+                    -1.66120081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 003",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.201322,
+                    -1.66113743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 005",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20118211,
+                    -1.66102156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 006",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20118211,
+                    -1.66102156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 007",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20103683,
+                    -1.66090577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 008",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2009691,
+                    -1.6608443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 009",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20081729,
+                    -1.66072833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 011",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20073883,
+                    -1.66067106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 010",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20073883,
+                    -1.66067106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 012",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20059837,
+                    -1.66054319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 013",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2004477,
+                    -1.66042209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 014",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2004477,
+                    -1.66042209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 015",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2003071,
+                    -1.66030119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 016",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20023782,
+                    -1.66023297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H\u00f4pital : Shalom m\u00e9dical clinique 017",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20017697,
+                    -1.66016569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 020",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20003864,
+                    -1.66003721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 021",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19997262,
+                    -1.65996685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 022",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19997262,
+                    -1.65996685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 023",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19989292,
+                    -1.65990929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 024",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19982593,
+                    -1.65984609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 025",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19975205,
+                    -1.65979025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 026",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19968097,
+                    -1.65972494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 027",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19961437,
+                    -1.65966058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 029",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19954187,
+                    -1.65960225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 030",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19954187,
+                    -1.65960225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 031",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19946729,
+                    -1.6595468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 033",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19939472,
+                    -1.65949105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 034",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19925021,
+                    -1.65937143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 035",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19917702,
+                    -1.65931832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 038",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19903846,
+                    -1.65918691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 039",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19897282,
+                    -1.65912267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 040",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1989109,
+                    -1.6590468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 041",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19884098,
+                    -1.65898035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 043",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.198768,
+                    -1.65892269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaz s\u00e9vices ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19854735,
+                    -1.65874856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bar : les insulaires ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19905543,
+                    -1.65818919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 044",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19848051,
+                    -1.658743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 045",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19836598,
+                    -1.65859328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 046",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19836598,
+                    -1.65859328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F\u00e9d\u00e9ration des organisations des producteurs agricoles du congo au Nord Kivu - FOPAC/NK 047",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19829038,
+                    -1.65853614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 048",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19829038,
+                    -1.65853614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 049",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19821505,
+                    -1.65847637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 050",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19813306,
+                    -1.65843636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 051",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19813306,
+                    -1.65843636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 052",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19806581,
+                    -1.65835723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 053",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19799037,
+                    -1.65829961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 054",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19799037,
+                    -1.65829961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 056",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19791251,
+                    -1.65824447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 057",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19775565,
+                    -1.6581391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 058",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19775565,
+                    -1.6581391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 059",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19761069,
+                    -1.65802989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 060",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19754259,
+                    -1.65796519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 061",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19747089,
+                    -1.65790436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 062",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19747089,
+                    -1.65790436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 063",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19740545,
+                    -1.65784166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 064",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19740545,
+                    -1.65784166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 065",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1972562,
+                    -1.65772323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 068",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19717525,
+                    -1.65766947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 067",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19717525,
+                    -1.65766947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 069",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19703206,
+                    -1.65755707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 071",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19698618,
+                    -1.65747521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 073",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19685776,
+                    -1.65733929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 074",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19680525,
+                    -1.65725768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 075",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19674461,
+                    -1.6571886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 076",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19674461,
+                    -1.6571886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lion quincaillerie ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19668739,
+                    -1.65711882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "boulevard 009 ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1964045,
+                    -1.65673778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 112",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19596984,
+                    -1.65734297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 111",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19596984,
+                    -1.65734297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 109",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19601081,
+                    -1.65742698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 108",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1960916,
+                    -1.65760017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 107",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19614727,
+                    -1.65768137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 106",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19621418,
+                    -1.6577476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 105",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19621418,
+                    -1.6577476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 104",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19629804,
+                    -1.65780018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 102",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19636942,
+                    -1.65785671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 101",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19652258,
+                    -1.65795897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 097",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19667842,
+                    -1.65806607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 096",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19674124,
+                    -1.65813096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 095",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19681248,
+                    -1.65819735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 094",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19688985,
+                    -1.65824811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 092",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19703067,
+                    -1.65836501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 093",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19709844,
+                    -1.65842779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 091",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19709844,
+                    -1.65842779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 089",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19717017,
+                    -1.65849616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 090",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19724689,
+                    -1.65855534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 087",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19724689,
+                    -1.65855534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 088",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19731457,
+                    -1.65861581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 086",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1974009,
+                    -1.65864741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 085",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1974009,
+                    -1.65864741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 084",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19748416,
+                    -1.65868209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 083",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19754811,
+                    -1.6587479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 082",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19759424,
+                    -1.65883126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 081",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19767711,
+                    -1.65888331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 080",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19775545,
+                    -1.65893342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 079",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19783729,
+                    -1.65897556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eglise : Ministre de J\u00e9sus temple mont Sina\u00ef ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19815678,
+                    -1.65914659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "centre m\u00e9dical HDW Maternit\u00e9 ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19805949,
+                    -1.65916049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 167",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19812663,
+                    -1.65979966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 170",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19812663,
+                    -1.65979966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 163",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19819812,
+                    -1.65985835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 160",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19827707,
+                    -1.6599106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 159",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19827707,
+                    -1.6599106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 157",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19835611,
+                    -1.65996365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 155",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19835611,
+                    -1.65996365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 156",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19842951,
+                    -1.66001711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 152",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19850795,
+                    -1.66007278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 151",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19858825,
+                    -1.66013169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 150",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19866053,
+                    -1.66018782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shirika Saint pierre Quartier : Saint Fran\u00e7ois Xavier paroisse : bienheureuse anuarite 149",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19881927,
+                    -1.66029668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 148",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19890016,
+                    -1.66034144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 146",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19896929,
+                    -1.6604079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 147",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19896929,
+                    -1.6604079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 145",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1990487,
+                    -1.66045579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 144",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19912511,
+                    -1.66051655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 143",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19919922,
+                    -1.66057254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 142",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19926124,
+                    -1.6606434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 141",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19933159,
+                    -1.66070322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 140",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19933159,
+                    -1.66070322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 138",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19939718,
+                    -1.66076546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 139",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19939718,
+                    -1.66076546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 137",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19947029,
+                    -1.66082593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 135",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19954066,
+                    -1.66088991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 136",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19961534,
+                    -1.66094043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 133",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19969276,
+                    -1.66098718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 132",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19977431,
+                    -1.66104056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 126",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19977431,
+                    -1.66104056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 127",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19982494,
+                    -1.66111949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 125",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19989329,
+                    -1.66117868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 124",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19996089,
+                    -1.66124149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 122",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20002492,
+                    -1.66131111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 121",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20002492,
+                    -1.66131111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 120",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20009592,
+                    -1.66136904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 119",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20016584,
+                    -1.6614283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 118",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20016584,
+                    -1.6614283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 116",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20023812,
+                    -1.66149145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 115",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20038021,
+                    -1.66161898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 114",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20038021,
+                    -1.66161898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Walikale 002 113",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20045121,
+                    -1.66168276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19961746,
+                    -1.6622311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 001",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19954837,
+                    -1.66216788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 003",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19947931,
+                    -1.66209915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 004",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19947931,
+                    -1.66209915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 005",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19942643,
+                    -1.66202233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 006",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19935917,
+                    -1.66195728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 008",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19930401,
+                    -1.6618843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 007",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19924421,
+                    -1.66181091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 009",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19916435,
+                    -1.66175445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 010",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19909051,
+                    -1.66168827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 011",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19909051,
+                    -1.66168827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 012",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19901712,
+                    -1.66163494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 013",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1988894,
+                    -1.66149674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 014",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19881435,
+                    -1.66144294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 015",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19874996,
+                    -1.6613742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 016",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19862093,
+                    -1.66123799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 017",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19862093,
+                    -1.66123799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 018",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19855669,
+                    -1.66117375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 019",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19855669,
+                    -1.66117375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 020",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1984883,
+                    -1.66110975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 024",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1984883,
+                    -1.66110975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 021",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19842575,
+                    -1.66103582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 025",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19842575,
+                    -1.66103582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 026",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19835592,
+                    -1.66097545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 027",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19829849,
+                    -1.66089742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 028",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19829849,
+                    -1.66089742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 029",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19823224,
+                    -1.66083154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 030",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19816229,
+                    -1.66076854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 031",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19809216,
+                    -1.66071168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 032",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19809216,
+                    -1.66071168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 035",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19797532,
+                    -1.66056405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 036",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790674,
+                    -1.66049862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 038",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790674,
+                    -1.66049862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 037",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19782992,
+                    -1.6604426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 041",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19760623,
+                    -1.6605841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 039",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19760623,
+                    -1.6605841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 040",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19760623,
+                    -1.6605841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 042",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19760623,
+                    -1.6605841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 043",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19751507,
+                    -1.66060623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 044",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19746487,
+                    -1.66052593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 045",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19746487,
+                    -1.66052593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "171 Walikale ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19767069,
+                    -1.65943856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 172",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19757869,
+                    -1.65941125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 174",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19757869,
+                    -1.65941125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H\u00f4pital : centre m\u00e9dical neurosciences st jean Bosco ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19749977,
+                    -1.65935775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "175 Walikale ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19749977,
+                    -1.65935775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 176",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19742723,
+                    -1.6593005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 171",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1973511,
+                    -1.65924874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 178",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1973511,
+                    -1.65924874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 179",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19727156,
+                    -1.65919799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 180",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19719453,
+                    -1.65914715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 181",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1971104,
+                    -1.6591014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 182",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19702781,
+                    -1.65905262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 183",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19702781,
+                    -1.65905262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 185",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19694884,
+                    -1.65900168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 184",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19686213,
+                    -1.65895101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 187",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19670783,
+                    -1.65883886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 190",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19663345,
+                    -1.65877572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 189",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19655003,
+                    -1.65873611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 196",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19604379,
+                    -1.65830651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 199",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19596782,
+                    -1.65825513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 201",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19584491,
+                    -1.65812004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 202",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19578463,
+                    -1.65805108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 204",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19566595,
+                    -1.65790043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 205",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19562392,
+                    -1.65781895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 206",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19546234,
+                    -1.65737752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. Uvira 002 207",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19544322,
+                    -1.65728123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19542673,
+                    -1.65776991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 107",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19525613,
+                    -1.65784469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 103",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19525613,
+                    -1.65784469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 105",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19525613,
+                    -1.65784469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 102",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19516811,
+                    -1.65786804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 101",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19516811,
+                    -1.65786804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 100",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19507475,
+                    -1.657895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 99",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1949848,
+                    -1.65791994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 97",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19481417,
+                    -1.65799588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 96",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19481417,
+                    -1.65799588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 95",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19472969,
+                    -1.65802714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 94",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19464773,
+                    -1.6580692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 93",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19458565,
+                    -1.65813491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 92",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19442161,
+                    -1.65823183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 091",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19425709,
+                    -1.65833002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 090",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19423519,
+                    -1.65851299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 089",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19423519,
+                    -1.65851299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 088",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19428272,
+                    -1.65858983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 087",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19428272,
+                    -1.65858983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 086",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19447822,
+                    -1.65878702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 084",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19467001,
+                    -1.65898396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 083",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19467001,
+                    -1.65898396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 081",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19482084,
+                    -1.65910353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "082 Institut moria",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19482084,
+                    -1.65910353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 078",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1949669,
+                    -1.65922194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 077",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19507441,
+                    -1.65937439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 076",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19507441,
+                    -1.65937439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 073",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19512303,
+                    -1.65945909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 071",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19516839,
+                    -1.659541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 072",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19519858,
+                    -1.65963108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 070",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1952211,
+                    -1.65972063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 068",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19541148,
+                    -1.66004328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 066",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19543583,
+                    -1.66013451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 064",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19551652,
+                    -1.6604039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 062",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19555026,
+                    -1.66049301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 063",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19558491,
+                    -1.66058096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 061",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19558491,
+                    -1.66058096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 060",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19561324,
+                    -1.66066697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 058",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19561324,
+                    -1.66066697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 059",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19566279,
+                    -1.66074398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 057",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19581631,
+                    -1.66085913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 055",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1959706,
+                    -1.66096878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 056",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1959706,
+                    -1.66096878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 054",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19604006,
+                    -1.66103382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antenne Telecom ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19642324,
+                    -1.66105734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uvira 83",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19647156,
+                    -1.66083877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uvira 84",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19647156,
+                    -1.66083877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 080",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19640271,
+                    -1.66077962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 081",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19633959,
+                    -1.66071464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 080",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19627317,
+                    -1.66064979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 079",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19627317,
+                    -1.66064979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 078",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19619519,
+                    -1.66059476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 079",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19619519,
+                    -1.66059476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 076",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1961354,
+                    -1.66052309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 075",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1961354,
+                    -1.66052309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 073",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19599668,
+                    -1.66039481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 075",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19599668,
+                    -1.66039481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 072",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19592229,
+                    -1.66034168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 070",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19585823,
+                    -1.66026896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 070",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19571496,
+                    -1.66014734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "098 Uvira",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19565694,
+                    -1.6596714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 099",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19581323,
+                    -1.65977084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 101",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19589543,
+                    -1.6598256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 102",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19589543,
+                    -1.6598256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 106",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19612508,
+                    -1.66000213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 108",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19619816,
+                    -1.66005813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 107",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19619816,
+                    -1.66005813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 110",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19627036,
+                    -1.66011492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CEPAC",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19633626,
+                    -1.66017653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 111",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19641551,
+                    -1.66022232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 112",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19647643,
+                    -1.66028994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 113",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19647643,
+                    -1.66028994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 115",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19655418,
+                    -1.66034701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 114",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19655418,
+                    -1.66034701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uvira 46",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19735664,
+                    -1.65981383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 48",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19727544,
+                    -1.65976785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 47",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19727544,
+                    -1.65976785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 50",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19719573,
+                    -1.65971611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 51",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19711805,
+                    -1.65966257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 49",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19711805,
+                    -1.65966257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 52",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19694861,
+                    -1.6595844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 53",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19694861,
+                    -1.6595844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 054",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19670674,
+                    -1.65943868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 056",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19662916,
+                    -1.65938676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 054",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19662916,
+                    -1.65938676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 058",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19626026,
+                    -1.65910172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 057",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19634541,
+                    -1.6589425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "060 Uvira",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19621292,
+                    -1.65910755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "061  paroisse : Source de vie ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19621292,
+                    -1.65910755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 063",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1961462,
+                    -1.65917263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 062",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19601728,
+                    -1.65930175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 064",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19601728,
+                    -1.65930175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 065",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19593862,
+                    -1.65935081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 066",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19580177,
+                    -1.65949106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 067",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19580177,
+                    -1.65949106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 068",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19572013,
+                    -1.65954104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 069",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1956572,
+                    -1.65960676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uvira 97",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19607058,
+                    -1.65942045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 95",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19614932,
+                    -1.65948321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 96",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19622376,
+                    -1.65953934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 93",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19622376,
+                    -1.65953934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 94",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19637217,
+                    -1.6596532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 92",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19644411,
+                    -1.65971906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 91",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19644411,
+                    -1.65971906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 90",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19650627,
+                    -1.65978736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 89",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1965786,
+                    -1.6598534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 86",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19672136,
+                    -1.6599735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 87",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19672136,
+                    -1.6599735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 85",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19687075,
+                    -1.66009035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "117 Uvira ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19706966,
+                    -1.6608023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 118",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19712933,
+                    -1.66087524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 119",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19712933,
+                    -1.66087524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 120",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19712933,
+                    -1.66087524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 121",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19720047,
+                    -1.66093353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 122",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19720047,
+                    -1.66093353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 123",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1972595,
+                    -1.66100997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 125",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19730659,
+                    -1.66109334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 124",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19730659,
+                    -1.66109334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 127",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19736466,
+                    -1.66116493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 126",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19736466,
+                    -1.66116493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 128",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19742966,
+                    -1.66123458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 129",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19742966,
+                    -1.66123458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 130",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19748235,
+                    -1.66130975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 131",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19753409,
+                    -1.66138706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 132",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19753409,
+                    -1.66138706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 133",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19759491,
+                    -1.66145792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 134",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19759491,
+                    -1.66145792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 135",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19759491,
+                    -1.66145792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 136",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19765801,
+                    -1.66152875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 138",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19778883,
+                    -1.66166192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 137",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19784924,
+                    -1.66172904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 143",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19800221,
+                    -1.6617396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 141",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19806327,
+                    -1.66166422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 142",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19806327,
+                    -1.66166422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 147",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1980194,
+                    -1.6619361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 148",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19808675,
+                    -1.6619977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 149",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1981543,
+                    -1.66206222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 150",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1981543,
+                    -1.66206222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 152",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19821976,
+                    -1.66212854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 151",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19821976,
+                    -1.66212854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 153",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19827469,
+                    -1.66220603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "155 Sauna",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19838961,
+                    -1.66235419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 157",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19845771,
+                    -1.66241932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 160",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19861336,
+                    -1.66253047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 161",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19867093,
+                    -1.66260208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 167",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1988124,
+                    -1.66272036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 168",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1988124,
+                    -1.66272036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "002 Av. du 30 juin ",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19822314,
+                    -1.66343685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 003",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19816168,
+                    -1.66336179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 004",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19811957,
+                    -1.66327964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 001",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19811957,
+                    -1.66327964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 005",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19804086,
+                    -1.66323449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 007",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19804086,
+                    -1.66323449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 006",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19804086,
+                    -1.66323449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 008",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790414,
+                    -1.66310912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 009",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790414,
+                    -1.66310912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 010",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790414,
+                    -1.66310912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 011",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19790414,
+                    -1.66310912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 013",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19784804,
+                    -1.66303358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 012",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19784804,
+                    -1.66303358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 015",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19778219,
+                    -1.66296713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 014",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19772116,
+                    -1.66289826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 016",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19772116,
+                    -1.66289826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 017",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19764262,
+                    -1.66284271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 018",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19764262,
+                    -1.66284271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 019",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19756716,
+                    -1.66278827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 022",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19756716,
+                    -1.66278827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 023",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19752601,
+                    -1.66270674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 024",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19745265,
+                    -1.66264279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 27",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19738994,
+                    -1.66257774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 26",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19732312,
+                    -1.66251458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 30",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19725956,
+                    -1.6624471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 31",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19725956,
+                    -1.6624471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECC 5ieme CELPA _ MIZEITUNI 32",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19720037,
+                    -1.66237668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 37",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19705633,
+                    -1.66213897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 038",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19701289,
+                    -1.66205636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 039",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19701289,
+                    -1.66205636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 042",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19696014,
+                    -1.66197858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 43",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1969287,
+                    -1.66188899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 44",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19687941,
+                    -1.66180563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 045",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19687941,
+                    -1.66180563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 046",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19684081,
+                    -1.66172335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 048",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19678212,
+                    -1.66165165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 049",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19678212,
+                    -1.66165165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 51",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19666766,
+                    -1.66149905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 050",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19662343,
+                    -1.66141859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Av. du 30 Jun 106 053",
+                "Quartier": "Himbi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.19658274,
+                    -1.66133391
+                ]
+            }
+        }
+    ]
+}
