@@ -1,0 +1,1685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "lac",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.19350314, -1.66634316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "lac",
+        "numero": "004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.19350314, -1.66634316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19338237, -1.66619862 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19322834, -1.66609518 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19316564, -1.66602082 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19310798, -1.66594494 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19310798, -1.66594494 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1930341, -1.66589001 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19296649, -1.66582495 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19289854, -1.66575749 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19275751, -1.66562912 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19275751, -1.66562912 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19268517, -1.66556596 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19261595, -1.66550633 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19254615, -1.66544444 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19247338, -1.66538498 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19241029, -1.66531762 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19234103, -1.66524946 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19226883, -1.66518896 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19226883, -1.66518896 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19220876, -1.66511971 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19193393, -1.66492718 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19178546, -1.66504173 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19171581, -1.66510699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19171581, -1.66510699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1916445, -1.66516297 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1916445, -1.66516297 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1916445, -1.66516297 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19156953, -1.66521471 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19142553, -1.66533023 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19134837, -1.66527527 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19121292, -1.66514357 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19100511, -1.6649521 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19093622, -1.66488533 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19086344, -1.66482121 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19055069, -1.66447211 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19048617, -1.66440432 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19041785, -1.66434313 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19041785, -1.66434313 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19029108, -1.66421261 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1901285, -1.66397494 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19000234, -1.66383165 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18987039, -1.66368713 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18950558, -1.6632433 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18937114, -1.66311659 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18917367, -1.66292136 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.1891111, -1.66285241 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18892799, -1.66263419 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18880012, -1.662499 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18874784, -1.6624198 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18867468, -1.66236408 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18867468, -1.66236408 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18855106, -1.66223077 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 29.18824149, -1.66186489 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18817982, -1.661789 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18811786, -1.66171616 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18805724, -1.66164872 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18805724, -1.66164872 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "avenue du lac",
+        "numero": "074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.18787075, -1.66143832 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.201322, -1.66113743 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20118211, -1.66102156 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20118211, -1.66102156 ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20103683, -1.66090577 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.2009691, -1.6608443 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 29.20081729, -1.66072833 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20073883, -1.66067106 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20073883, -1.66067106 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20059837, -1.66054319 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.2004477, -1.66042209 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20003864, -1.66003721 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19997262, -1.65996685 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20023782, -1.66023297 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19997262, -1.65996685 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19989292, -1.65990929 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 29.19982593, -1.65984609 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19975205, -1.65979025 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19968097, -1.65972494 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19961437, -1.65966058 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19954187, -1.65960225 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19954187, -1.65960225 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.19946729, -1.6595468 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quartier": "Quartier Himbi",
+        "avenue": "Walikale",
+        "numero": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 29.20139248, -1.66120081 ]
+      }
+    }
+  ]
+}
