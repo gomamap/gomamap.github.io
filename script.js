@@ -183,3 +183,5 @@ style.innerHTML = `
 }
 `;
 document.head.appendChild(style);
+
+// Placeholder: More custom functionality for map interactions can be added here.
