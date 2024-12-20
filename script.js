@@ -12,89 +12,117 @@ let currentRoute = null;
 let geojsonLayer = null;
 let geojsonData = null;
 
-// Fonction pour charger les données GeoJSON et afficher les points bleus
-function chargerGeoJSON(fichier) {
-    const reader = new FileReader();
-    reader.onload = function (e) {
-        geojsonData = JSON.parse(e.target.result); // Charger les données dans la variable globale
+// Chargement automatique du fichier GeoJSON
+fetch('donnee.geojson')
+    .then((response) => response.json())
+    .then((data) => {
+        geojsonData = data;
 
-        if (geojsonLayer) {
-            map.removeLayer(geojsonLayer); // Supprimer les anciennes couches si elles existent
+    })
+    .catch((error) => console.error('Erreur lors du chargement des données GeoJSON :', error));
+
+// Fonctionpour chercher un lieu
+function rechercherMaison(query) {
+        if (!geojsonData) {
+            alert("Les données GeoJSON ne sont pas encore chargées.");
+            return;
         }
-
-        // Afficher les points bleus pour toutes les maisons
-        geojsonLayer = L.geoJSON(geojsonData, {
-            pointToLayer: function (feature, latlng) {
-                return L.circleMarker(latlng, {
-                    radius: 8,
-                    fillColor: "blue",
-                    color: "blue",
-                    weight: 0.1,
-                    opacity: 1,
-                    fillOpacity: 0.8,
-                }).bindPopup(`Avenue : ${feature.properties.avenue}<br>Numéro : ${feature.properties.numero}`);
-            },
-        }).addTo(map);
-
-        alert("Les données GeoJSON ont été chargées avec succès.");
-    };
-    reader.readAsText(fichier);
-}
-
-// Gestionnaire pour l'importation de fichiers
-document.getElementById('fileInput').addEventListener('change', function (event) {
-    const file = event.target.files[0];
-    if (file) {
-        const extension = file.name.split('.').pop().toLowerCase();
-        if (extension === 'geojson') {
-            chargerGeoJSON(file);
+    
+        // Convertir la requête en minuscule
+        const queryLower = query.trim().toLowerCase();
+        console.log("Requête : ", queryLower); // Débogage de la requête
+    
+        // Trouver les lieux correspondants
+        const matchingFeatures = geojsonData.features.filter(f => {
+            console.log("Comparaison avec : ", f.properties); // Débogage des données
+            // Vérifier si l'une des propriétés correspond à la requête
+            return Object.values(f.properties).some(value =>
+                value.toLowerCase && value.toLowerCase().includes(queryLower)
+            );
+        });
+    
+        // Si des lieux sont trouvés
+        if (matchingFeatures.length > 0) {
+            // Si un seul lieu correspond, zoomer sur ce lieu
+            if (matchingFeatures.length === 1) {
+                const coords = matchingFeatures[0].geometry.coordinates;
+                map.setView([coords[1], coords[0]], 18);
+    
+                // Supprimer l'ancien marqueur s'il existe
+                if (currentMarker) {
+                    map.removeLayer(currentMarker);
+                }
+    
+                // Ajouter un marqueur pour le lieu trouvé
+                currentMarker = L.marker([coords[1], coords[0]], { icon: animatedIcon() }).addTo(map)
+                    .bindPopup(`Lieu trouvé !<br>Quartier : ${matchingFeatures[0].properties.Quartier} <br>Avenue : ${matchingFeatures[0].properties.avenue} <br>Type : ${matchingFeatures[0].properties.icon}`)
+                    .openPopup();
+            } else {
+                // Afficher tous les lieux correspondants
+                matchingFeatures.forEach(feature => {
+                    const coords = feature.geometry.coordinates;
+                    const name = feature.properties.bar || feature.properties.ecole || feature.properties.entreprise || feature.properties.boutique || feature.properties.eglise;
+                    
+                    L.marker([coords[1], coords[0]], { icon: animatedIcon() }).addTo(map)
+                        .bindPopup(`Lieu : ${name}<br>Quartier : ${feature.properties.Quartier}`)
+                        .openPopup();
+                });
+            }
         } else {
-            alert("Veuillez importer un fichier GeoJSON valide.");
+            alert("Aucun lieu trouvé correspondant à la recherche.");
+        }
+}    
+
+// Attacher l'écouteur d'événement après la définition de la fonction
+document.getElementById('searchInput').addEventListener('keypress', function (event) {
+    if (event.key === 'Enter') {
+        const query = event.target.value.trim();
+        if (query) {
+            rechercherMaison(query);
         }
     }
 });
 
-// Fonction pour rechercher une maison par avenue et numéro
-function rechercherMaison(query) {
-    if (!geojsonData) {
-        alert("Les données GeoJSON ne sont pas encore chargées.");
-        return;
-    }
+// Fonction pour calculer et afficher les itinéraires
+function proposeRoutes(start, end) {
+    const transportModes = [
+        { type: "Piéton", icon: "🚶", speed: 5 },
+        { type: "Vélo", icon: "🚴", speed: 15 },
+        { type: "Moto", icon: "🏍", speed: 40 },
+        { type: "Voiture", icon: "🚗", speed: 60 },
+        { type: "Handicapés", icon: "♿", speed: 3 }
+    ];
 
-    // Convertir la requête en minuscule et la découper
-    const [avenue, numero] = query.split(/[\s,]+/).map(item => item.trim().toLowerCase());
+    L.Routing.control({
+        waypoints: [
+            L.latLng(start.lat, start.lng),
+            L.latLng(end.lat, end.lng)
+        ],
+        createMarker: () => null, // Pas de marqueurs
+        routeWhileDragging: true,
+        show: false
+    }).on('routesfound', (e) => {
+        const routes = e.routes;
+        const popupContent = document.createElement('div');
+        popupContent.innerHTML = "<h3>Itinéraires proposés</h3>";
 
-    console.log("Requête : ", { avenue, numero }); // Débogage de la requête
+        transportModes.forEach(mode => {
+            const distance = routes[0].summary.totalDistance / 1000; // Convertir en km
+            const time = (distance / mode.speed) * 60; // Temps en minutes
+            const routeOption = document.createElement('div');
+            routeOption.innerHTML = `
+                <p>${mode.icon} <strong>${mode.type}</strong>: 
+                ${distance.toFixed(2)} km, ~${time.toFixed(0)} min</p>`;
+            popupContent.appendChild(routeOption);
+        });
 
-    // Trouver la maison correspondante
-    const feature = geojsonData.features.find(f => {
-        console.log("Comparaison avec : ", f.properties); // Débogage des données
-        return (
-            f.properties.avenue.toLowerCase() === avenue && // Conversion en minuscule
-            f.properties.numero.toLowerCase() === numero   // Conversion en minuscule
-        );
-    });
-
-    if (feature) {
-        const coords = feature.geometry.coordinates;
-
-        // Centrer la carte sur la maison recherchée
-        map.setView([coords[1], coords[0]], 18);
-
-        // Supprimer l'ancien marqueur s'il existe
-        if (currentMarker) {
-            map.removeLayer(currentMarker);
-        }
-
-        // Ajouter le marqueur pour la maison trouvée
-        currentMarker = L.marker([coords[1], coords[0]], { icon: animatedIcon() }).addTo(map)
-            .bindPopup(`Maison trouvée !<br>Avenue : ${feature.properties.avenue}<br>Numéro : ${feature.properties.numero}`)
-            .openPopup();
-    } else {
-        alert("Maison introuvable. Vérifiez les informations !");
-    }
+        // Afficher la popup
+        L.popup()
+            .setLatLng(end)
+            .setContent(popupContent)
+            .openOn(map);
+    }).addTo(map);
 }
-
 
 // Icône animée pour la maison recherchée
 function animatedIcon() {
@@ -183,5 +211,3 @@ style.innerHTML = `
 }
 `;
 document.head.appendChild(style);
-
-// Placeholder: More custom functionality for map interactions can be added here.

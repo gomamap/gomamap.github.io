@@ -9,8 +9,6 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css">
 </head>
 <body>
-<div id='map' style='height: 500px; width: 100%;'></div>
-
     <header>
         <h1>Carte détaillée de la ville de Goma</h1>
     </header>
@@ -37,62 +35,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
-<script>
-  let map;
-  let directionsService;
-  let directionsRenderer;
-  let placesService;
-
-  function initMap() {
-    // Initialize the map
-    map = new google.maps.Map(document.getElementById('map'), {
-      center: { lat: -1.286389, lng: 36.817223 }, // Nairobi by default
-      zoom: 12,
-    });
-
-    // Initialize Directions and Places services
-    directionsService = new google.maps.DirectionsService();
-    directionsRenderer = new google.maps.DirectionsRenderer();
-    placesService = new google.maps.places.PlacesService(map);
-    directionsRenderer.setMap(map);
-
-    // Example: Add functionality to find nearby places
-    findNearbyPlaces('restaurant');
-  }
-
-  function findNearbyPlaces(type) {
-    const request = {
-      location: map.getCenter(),
-      radius: 5000,
-      type: type,
-    };
-    placesService.nearbySearch(request, (results, status) => {
-      if (status === google.maps.places.PlacesServiceStatus.OK) {
-        results.forEach((place) => {
-          if (place.geometry && place.geometry.location) {
-            new google.maps.Marker({
-              position: place.geometry.location,
-              map: map,
-              title: place.name,
-            });
-          }
-        });
-      }
-    });
-  }
-
-  function calculateOptimizedRoute(origin, destination) {
-    const request = {
-      origin: origin,
-      destination: destination,
-      travelMode: google.maps.TravelMode.DRIVING,
-      optimizeWaypoints: true,
-    };
-    directionsService.route(request, (result, status) => {
-      if (status === google.maps.DirectionsStatus.OK) {
-        directionsRenderer.setDirections(result);
-      }
-    });
-  }
-</script>

@@ -1,0 +1,5915 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "bar": "KIVUFiesta", 
+        "icon": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20145869,
+          -1.66126626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 002", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20139248,
+          -1.66120081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 003", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.201322,
+          -1.66113743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 005", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20118211,
+          -1.66102156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 006", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20118211,
+          -1.66102156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 007", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20103683,
+          -1.66090577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 008", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2009691,
+          -1.6608443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 009", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20081729,
+          -1.66072833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 011", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20073883,
+          -1.66067106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 010", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20073883,
+          -1.66067106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 012", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20059837,
+          -1.66054319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 013", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2004477,
+          -1.66042209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 014", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2004477,
+          -1.66042209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 015", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2003071,
+          -1.66030119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 016", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20023782,
+          -1.66023297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "hôpital": "Shalom médical clinique", 
+        "icon": "hôpital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20017697,
+          -1.66016569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 020", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20003864,
+          -1.66003721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 021", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19997262,
+          -1.65996685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 022", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19997262,
+          -1.65996685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 023", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19989292,
+          -1.65990929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 024", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19982593,
+          -1.65984609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 025", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19975205,
+          -1.65979025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 026", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19968097,
+          -1.65972494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 027", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19961437,
+          -1.65966058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 029", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19954187,
+          -1.65960225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 030", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19954187,
+          -1.65960225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 031", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19946729,
+          -1.6595468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 033", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19939472,
+          -1.65949105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 034", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19925021,
+          -1.65937143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 035", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19917702,
+          -1.65931832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 038", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19903846,
+          -1.65918691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 039", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19897282,
+          -1.65912267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 040", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1989109,
+          -1.6590468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 041", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19884098,
+          -1.65898035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 043", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.198768,
+          -1.65892269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Entreprise": "Gaz sévices ", 
+        "icon": "Entreprise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19854735,
+          -1.65874856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "bar": "les insulaires", 
+        "icon": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19905543,
+          -1.65818919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 044", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19848051,
+          -1.658743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 045", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19836598,
+          -1.65859328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 046", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19836598,
+          -1.65859328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Entreprise": "Fédération des organisations des producteurs agricoles du congo au Nord Kivu - FOPAC/NK", 
+        "icon": "Entreprise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19829038,
+          -1.65853614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 048", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19829038,
+          -1.65853614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 049", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19821505,
+          -1.65847637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 050", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19813306,
+          -1.65843636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 051", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19813306,
+          -1.65843636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 052", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19806581,
+          -1.65835723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 053", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19799037,
+          -1.65829961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 054", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19799037,
+          -1.65829961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 056", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19791251,
+          -1.65824447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 057", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19775565,
+          -1.6581391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 058", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19775565,
+          -1.6581391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 059", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19761069,
+          -1.65802989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 060", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19754259,
+          -1.65796519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 061", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19747089,
+          -1.65790436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 062", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19747089,
+          -1.65790436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 063", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19740545,
+          -1.65784166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 064", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19740545,
+          -1.65784166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 065", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1972562,
+          -1.65772323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 068", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19717525,
+          -1.65766947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 067", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19717525,
+          -1.65766947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 069", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19703206,
+          -1.65755707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 071", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19698618,
+          -1.65747521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 073", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19685776,
+          -1.65733929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 074", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19680525,
+          -1.65725768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 075", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19674461,
+          -1.6571886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 076", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19674461,
+          -1.6571886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Quincaillerie": "Lion quincaillerie ", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19668739,
+          -1.65711882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "boulevard 009 ", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1964045,
+          -1.65673778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 112", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19596984,
+          -1.65734297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 111", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19596984,
+          -1.65734297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 109", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19601081,
+          -1.65742698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 108", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1960916,
+          -1.65760017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 107", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19614727,
+          -1.65768137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 106", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19621418,
+          -1.6577476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 105", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19621418,
+          -1.6577476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 104", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19629804,
+          -1.65780018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 102", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19636942,
+          -1.65785671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 101", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19652258,
+          -1.65795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 097", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19667842,
+          -1.65806607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 096", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19674124,
+          -1.65813096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 095", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19681248,
+          -1.65819735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 094", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19688985,
+          -1.65824811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 092", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19703067,
+          -1.65836501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 093", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19709844,
+          -1.65842779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 091", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19709844,
+          -1.65842779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 089", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19717017,
+          -1.65849616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 090", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19724689,
+          -1.65855534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 087", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19724689,
+          -1.65855534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 088", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19731457,
+          -1.65861581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 086", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1974009,
+          -1.65864741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 085", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1974009,
+          -1.65864741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 084", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19748416,
+          -1.65868209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 083", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19754811,
+          -1.6587479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 082", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19759424,
+          -1.65883126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 081", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19767711,
+          -1.65888331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 080", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19775545,
+          -1.65893342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 079", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19783729,
+          -1.65897556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Eglise": "Ministre de Jésus temple mont Sinaï ", 
+        "icon": "Eglise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19815678,
+          -1.65914659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "hôpital": "centre médical HDW Maternité ", 
+        "icon": "hôpital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19805949,
+          -1.65916049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 167", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19812663,
+          -1.65979966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 170", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19812663,
+          -1.65979966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 163", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19819812,
+          -1.65985835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 160", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19827707,
+          -1.6599106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 159", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19827707,
+          -1.6599106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 157", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19835611,
+          -1.65996365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 155", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19835611,
+          -1.65996365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 156", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19842951,
+          -1.66001711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 152", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19850795,
+          -1.66007278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 151", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19858825,
+          -1.66013169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 150", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19866053,
+          -1.66018782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Eglise": "Shirika Saint pierre Quartier : Saint François Xavier paroisse : bienheureuse anuarite 149", 
+        "icon": "Eglise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19881927,
+          -1.66029668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 148", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19890016,
+          -1.66034144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 146", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19896929,
+          -1.6604079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 147", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19896929,
+          -1.6604079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 145", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1990487,
+          -1.66045579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 144", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19912511,
+          -1.66051655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 143", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19919922,
+          -1.66057254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 142", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19926124,
+          -1.6606434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 141", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19933159,
+          -1.66070322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 140", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19933159,
+          -1.66070322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 138", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19939718,
+          -1.66076546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 139", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19939718,
+          -1.66076546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 137", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19947029,
+          -1.66082593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 135", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19954066,
+          -1.66088991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 136", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19961534,
+          -1.66094043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 133", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19969276,
+          -1.66098718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 132", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19977431,
+          -1.66104056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 126", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19977431,
+          -1.66104056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 127", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19982494,
+          -1.66111949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 125", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19989329,
+          -1.66117868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 124", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19996089,
+          -1.66124149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 122", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20002492,
+          -1.66131111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 121", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20002492,
+          -1.66131111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 120", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20009592,
+          -1.66136904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 119", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20016584,
+          -1.6614283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 118", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20016584,
+          -1.6614283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 116", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20023812,
+          -1.66149145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 115", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20038021,
+          -1.66161898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 114", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20038021,
+          -1.66161898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "Walikale 113", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20045121,
+          -1.66168276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 002", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19961746,
+          -1.6622311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 001", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19954837,
+          -1.66216788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 003", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19947931,
+          -1.66209915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 004", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19947931,
+          -1.66209915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 005", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19942643,
+          -1.66202233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 006", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19935917,
+          -1.66195728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 008", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19930401,
+          -1.6618843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 007", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19924421,
+          -1.66181091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 009", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19916435,
+          -1.66175445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 010", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19909051,
+          -1.66168827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 011", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19909051,
+          -1.66168827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 012", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19901712,
+          -1.66163494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 013", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1988894,
+          -1.66149674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 014", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19881435,
+          -1.66144294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 015", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19874996,
+          -1.6613742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 016", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19862093,
+          -1.66123799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 017", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19862093,
+          -1.66123799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 018", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19855669,
+          -1.66117375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 019", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19855669,
+          -1.66117375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 020", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1984883,
+          -1.66110975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 024", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1984883,
+          -1.66110975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 021", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19842575,
+          -1.66103582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 025", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19842575,
+          -1.66103582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 026", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19835592,
+          -1.66097545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 027", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19829849,
+          -1.66089742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 028", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19829849,
+          -1.66089742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 029", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19823224,
+          -1.66083154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 030", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19816229,
+          -1.66076854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 031", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19809216,
+          -1.66071168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 032", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19809216,
+          -1.66071168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 035", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19797532,
+          -1.66056405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 036", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790674,
+          -1.66049862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 038", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790674,
+          -1.66049862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 037", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19782992,
+          -1.6604426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 041", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19760623,
+          -1.6605841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 039", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19760623,
+          -1.6605841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 040", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19760623,
+          -1.6605841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 042", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19760623,
+          -1.6605841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 043", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19751507,
+          -1.66060623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 044", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19746487,
+          -1.66052593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 045", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19746487,
+          -1.66052593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Walikale 171", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19767069,
+          -1.65943856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 172", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19757869,
+          -1.65941125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 174", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19757869,
+          -1.65941125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "hôpital": "centre médical neurosciences st jean Bosco", 
+        "icon": "hôpital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19749977,
+          -1.65935775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Walikale 175", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19749977,
+          -1.65935775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 176", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19742723,
+          -1.6593005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 171", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1973511,
+          -1.65924874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 178", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1973511,
+          -1.65924874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 179", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19727156,
+          -1.65919799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 180", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19719453,
+          -1.65914715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 181", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1971104,
+          -1.6591014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 182", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19702781,
+          -1.65905262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 183", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19702781,
+          -1.65905262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 185", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19694884,
+          -1.65900168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 184", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19686213,
+          -1.65895101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 187", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19670783,
+          -1.65883886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 190", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19663345,
+          -1.65877572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 189", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19655003,
+          -1.65873611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 196", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19604379,
+          -1.65830651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 199", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19596782,
+          -1.65825513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 201", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19584491,
+          -1.65812004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 202", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19578463,
+          -1.65805108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 204", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19566595,
+          -1.65790043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 205", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19562392,
+          -1.65781895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 206", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19546234,
+          -1.65737752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": " Uvira 207", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19544322,
+          -1.65728123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 106", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19542673,
+          -1.65776991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 107", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19525613,
+          -1.65784469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 103", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19525613,
+          -1.65784469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 105", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19525613,
+          -1.65784469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 102", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19516811,
+          -1.65786804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 101", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19516811,
+          -1.65786804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 100", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19507475,
+          -1.657895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 99", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1949848,
+          -1.65791994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 97", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19481417,
+          -1.65799588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 96", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19481417,
+          -1.65799588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 95", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19472969,
+          -1.65802714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 94", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19464773,
+          -1.6580692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 93", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19458565,
+          -1.65813491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 92", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19442161,
+          -1.65823183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 091", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19425709,
+          -1.65833002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 090", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19423519,
+          -1.65851299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 089", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19423519,
+          -1.65851299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 088", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19428272,
+          -1.65858983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 087", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19428272,
+          -1.65858983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 086", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19447822,
+          -1.65878702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 084", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19467001,
+          -1.65898396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 083", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19467001,
+          -1.65898396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 081", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19482084,
+          -1.65910353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Ecole": "Institut moria", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19482084,
+          -1.65910353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 078", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1949669,
+          -1.65922194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 077", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19507441,
+          -1.65937439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 076", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19507441,
+          -1.65937439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 073", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19512303,
+          -1.65945909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 071", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19516839,
+          -1.659541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 072", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19519858,
+          -1.65963108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 070", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1952211,
+          -1.65972063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 068", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19541148,
+          -1.66004328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 066", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19543583,
+          -1.66013451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 064", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19551652,
+          -1.6604039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 062", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19555026,
+          -1.66049301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 063", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19558491,
+          -1.66058096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 061", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19558491,
+          -1.66058096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 060", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19561324,
+          -1.66066697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 058", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19561324,
+          -1.66066697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 059", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19566279,
+          -1.66074398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 057", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19581631,
+          -1.66085913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 055", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1959706,
+          -1.66096878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 056", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1959706,
+          -1.66096878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 054", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19604006,
+          -1.66103382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "antenne": "Antenne Telecom ", 
+        "icon": "antenne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19642324,
+          -1.66105734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 83", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19647156,
+          -1.66083877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 84", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19647156,
+          -1.66083877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 080", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19640271,
+          -1.66077962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 081", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19633959,
+          -1.66071464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 080", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19627317,
+          -1.66064979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 079", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19627317,
+          -1.66064979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 078", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19619519,
+          -1.66059476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 079", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19619519,
+          -1.66059476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 076", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1961354,
+          -1.66052309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 075", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1961354,
+          -1.66052309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 073", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19599668,
+          -1.66039481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 075", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19599668,
+          -1.66039481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 072", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19592229,
+          -1.66034168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 070", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19585823,
+          -1.66026896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 070", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19571496,
+          -1.66014734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 098", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19565694,
+          -1.6596714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 099", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19581323,
+          -1.65977084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 101", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19589543,
+          -1.6598256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 102", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19589543,
+          -1.6598256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 106", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19612508,
+          -1.66000213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 108", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19619816,
+          -1.66005813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 107", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19619816,
+          -1.66005813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 110", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19627036,
+          -1.66011492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Eglise": "CEPAC", 
+        "icon": "Eglise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19633626,
+          -1.66017653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 111", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19641551,
+          -1.66022232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 112", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19647643,
+          -1.66028994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 113", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19647643,
+          -1.66028994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 115", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19655418,
+          -1.66034701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 114", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19655418,
+          -1.66034701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 46", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19735664,
+          -1.65981383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 48", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19727544,
+          -1.65976785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 47", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19727544,
+          -1.65976785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 50", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19719573,
+          -1.65971611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 51", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19711805,
+          -1.65966257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 49", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19711805,
+          -1.65966257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 52", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19694861,
+          -1.6595844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 53", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19694861,
+          -1.6595844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 054", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19670674,
+          -1.65943868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 056", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19662916,
+          -1.65938676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 054", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19662916,
+          -1.65938676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 058", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19626026,
+          -1.65910172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 057", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19634541,
+          -1.6589425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 060", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19621292,
+          -1.65910755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Eglise": "paroisse : Source de vie ", 
+        "icon": "Eglise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19621292,
+          -1.65910755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 063", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1961462,
+          -1.65917263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 062", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19601728,
+          -1.65930175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 064", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19601728,
+          -1.65930175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 065", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19593862,
+          -1.65935081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 066", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19580177,
+          -1.65949106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 067", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19580177,
+          -1.65949106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 068", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19572013,
+          -1.65954104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 069", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1956572,
+          -1.65960676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 97", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19607058,
+          -1.65942045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 95", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19614932,
+          -1.65948321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 96", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19622376,
+          -1.65953934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 93", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19622376,
+          -1.65953934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 94", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19637217,
+          -1.6596532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 92", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19644411,
+          -1.65971906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 91", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19644411,
+          -1.65971906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 90", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19650627,
+          -1.65978736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 89", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1965786,
+          -1.6598534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 86", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19672136,
+          -1.6599735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 87", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19672136,
+          -1.6599735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 85", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19687075,
+          -1.66009035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        " avenue": "Uvira 117", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19706966,
+          -1.6608023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 118", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19712933,
+          -1.66087524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 119", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19712933,
+          -1.66087524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 120", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19712933,
+          -1.66087524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 121", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19720047,
+          -1.66093353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 122", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19720047,
+          -1.66093353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 123", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1972595,
+          -1.66100997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 125", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19730659,
+          -1.66109334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 124", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19730659,
+          -1.66109334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 127", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19736466,
+          -1.66116493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 126", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19736466,
+          -1.66116493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 128", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19742966,
+          -1.66123458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 129", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19742966,
+          -1.66123458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 130", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19748235,
+          -1.66130975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 131", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19753409,
+          -1.66138706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 132", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19753409,
+          -1.66138706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 133", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19759491,
+          -1.66145792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 134", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19759491,
+          -1.66145792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 135", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19759491,
+          -1.66145792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 136", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19765801,
+          -1.66152875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 138", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19778883,
+          -1.66166192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 137", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19784924,
+          -1.66172904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 143", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19800221,
+          -1.6617396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 141", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19806327,
+          -1.66166422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 142", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19806327,
+          -1.66166422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 147", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1980194,
+          -1.6619361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 148", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19808675,
+          -1.6619977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 149", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1981543,
+          -1.66206222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 150", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1981543,
+          -1.66206222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 152", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19821976,
+          -1.66212854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 151", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19821976,
+          -1.66212854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 153", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19827469,
+          -1.66220603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "bar": "Sauna", 
+        "icon": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19838961,
+          -1.66235419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 157", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19845771,
+          -1.66241932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 160", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19861336,
+          -1.66253047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 161", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19867093,
+          -1.66260208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 167", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1988124,
+          -1.66272036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 168", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1988124,
+          -1.66272036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "002 Av. du 30 juin", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19822314,
+          -1.66343685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 003", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19816168,
+          -1.66336179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 004", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19811957,
+          -1.66327964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 001", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19811957,
+          -1.66327964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 005", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19804086,
+          -1.66323449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 007", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19804086,
+          -1.66323449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 006", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19804086,
+          -1.66323449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 008", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790414,
+          -1.66310912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 009", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790414,
+          -1.66310912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 010", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790414,
+          -1.66310912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 011", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19790414,
+          -1.66310912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 013", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19784804,
+          -1.66303358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 012", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19784804,
+          -1.66303358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 015", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19778219,
+          -1.66296713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 014", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19772116,
+          -1.66289826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 016", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19772116,
+          -1.66289826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 017", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19764262,
+          -1.66284271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 018", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19764262,
+          -1.66284271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 019", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19756716,
+          -1.66278827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 022", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19756716,
+          -1.66278827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 023", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19752601,
+          -1.66270674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 024", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19745265,
+          -1.66264279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 27", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19738994,
+          -1.66257774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 26", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19732312,
+          -1.66251458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 30", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19725956,
+          -1.6624471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 31", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19725956,
+          -1.6624471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "Eglise": "ECC 5ieme CELPA _ MIZEITUNI", 
+        "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19720037,
+          -1.66237668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 37", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19705633,
+          -1.66213897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 038", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19701289,
+          -1.66205636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 039", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19701289,
+          -1.66205636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 042", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19696014,
+          -1.66197858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 43", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1969287,
+          -1.66188899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 44", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19687941,
+          -1.66180563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 045", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19687941,
+          -1.66180563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 046", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19684081,
+          -1.66172335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 048", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19678212,
+          -1.66165165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 049", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19678212,
+          -1.66165165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 51", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19666766,
+          -1.66149905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 050", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19662343,
+          -1.66141859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Quartier": "Himbi",
+        "avenue": "du 30 Juin 053", 
+         "icon": "maison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19658274,
+          -1.66133391
+        ]
+      }
+    }
+  ]
+}
