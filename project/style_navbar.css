@@ -33,6 +33,7 @@ body {
 
 .menu-btn {
     background: none;
+    color: black;
     border: none;
     padding: 8px;
     cursor: pointer;
@@ -116,6 +117,7 @@ body {
 
 .side-menu {
     position: fixed;
+    color : black;
     top: 0;
     left: -280px;
     width: 280px;
