@@ -83,47 +83,6 @@ document.getElementById('searchInput').addEventListener('keypress', function (ev
     }
 });
 
-// Fonction pour calculer et afficher les itinéraires
-function proposeRoutes(start, end) {
-    const transportModes = [
-        { type: "Piéton", icon: "🚶", speed: 5 },
-        { type: "Vélo", icon: "🚴", speed: 15 },
-        { type: "Moto", icon: "🏍", speed: 40 },
-        { type: "Voiture", icon: "🚗", speed: 60 },
-        { type: "Handicapés", icon: "♿", speed: 3 }
-    ];
-
-    L.Routing.control({
-        waypoints: [
-            L.latLng(start.lat, start.lng),
-            L.latLng(end.lat, end.lng)
-        ],
-        createMarker: () => null, // Pas de marqueurs
-        routeWhileDragging: true,
-        show: false
-    }).on('routesfound', (e) => {
-        const routes = e.routes;
-        const popupContent = document.createElement('div');
-        popupContent.innerHTML = "<h3>Itinéraires proposés</h3>";
-
-        transportModes.forEach(mode => {
-            const distance = routes[0].summary.totalDistance / 1000; // Convertir en km
-            const time = (distance / mode.speed) * 60; // Temps en minutes
-            const routeOption = document.createElement('div');
-            routeOption.innerHTML = `
-                <p>${mode.icon} <strong>${mode.type}</strong>: 
-                ${distance.toFixed(2)} km, ~${time.toFixed(0)} min</p>`;
-            popupContent.appendChild(routeOption);
-        });
-
-        // Afficher la popup
-        L.popup()
-            .setLatLng(end)
-            .setContent(popupContent)
-            .openOn(map);
-    }).addTo(map);
-}
-
 // Icône animée pour la maison recherchée
 function animatedIcon() {
     return L.divIcon({
