@@ -3,35 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GomaMap - Carte détaillée</title>
-    <link rel="stylesheet" href="style.css">
+    <title>GomaMap - Carte interactive</title>
+    <link rel="stylesheet" href="s.css">
+    <link rel="stylesheet" href="project/style_navbar.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
     <header>
-        <h1>Carte détaillée de la ville de Goma</h1>
+        <nav class="navbar">
+            <div class="nav-left">
+                <button class="menu-btn" id="menuBtn">
+                    <span class="material-icons">menu</span>
+                </button>
+                <a href="/" class="logo">GomaMap</a>
+            </div>
+    
+            <div class="search-box">
+                <span class="material-icons search-icon">search</span>
+                <input type="text" id="searchInput" placeholder="Rechercher...">
+                <span class="material-icons mic-icon">mic</span>
+            </div>
+    
+            <div class="nav-right">
+                <button class="icon-btn settings-btn">
+                    <span class="material-icons">settings</span>
+                </button>
+                <button class="icon-btn apps-btn">
+                    <span class="material-icons">apps</span>
+                </button>
+                <button class="profile-btn">
+                    <img src="https://via.placeholder.com/32" alt="Profile" class="profile-img">
+                </button>
+            </div>
+        </nav>
+    
+        <div class="menu-overlay" id="menuOverlay"></div>
+        <div class="side-menu" id="sideMenu">
+            <div class="menu-header">
+                <span class="material-icons close-btn" id="closeMenu">close</span>
+            </div>
+            <ul class="menu-items">
+                <li><span class="material-icons">home</span>Accueil</li>
+                <li><span class="material-icons">map</span>Cartes</li>
+                <li><span class="material-icons">explore</span>Explorer</li>
+                <li><span class="material-icons">favorite</span>Favoris</li>
+                <li><span class="material-icons">history</span>Historique</li>
+                <li><span class="material-icons">settings</span>Paramètres</li>
+            </ul>
+        </div>
     </header>
     <main>
-        <div class="rechercher_endroit">
-            <input type="text" name="" id="searchInput" placeholder="Rechercher un lieu...">
-        </div>
-        <div id="map"></div>
-        <div class="file-input">
-            <label for="fileInput">Charger un fichier (GPX, KML, GeoJSON) :</label>
-            <input type="file" id="fileInput" accept=".geojson,.gpx,.kml">
+        <div id="map-container">
+            <div id="map"></div>
         </div>
         <div class="buttons">
-            <button id="locateBtn">Localiser ma position</button>
-            <button id="routeBtn">Afficher itinéraire</button>
+            <button class="carte" id="locateBtn">
+                <span class="material-icons">my_location</span>
+            </button> 
+            <button class="carte" id="routeBtn">
+                <span class="material-icons">add_road</span>
+            </button> 
         </div>
     </main>
     <footer>
         <p>&copy; 2024 - GomaMap</p>
     </footer>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/togeojson"></script>
     <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
     <script src="script.js"></script>
+    <script type="module" src="/project/main.js"></script>
 </body>
 </html>
