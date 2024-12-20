@@ -169,6 +169,7 @@ footer {
 
     #map-container {
         height: calc(100vh - 200px);
+        min-height: 100vh;
     }
 
     .buttons {
